@@ -16,7 +16,7 @@ a span {
 
 #header, #video, #info {
     margin: 0px auto;
-    max-width: 577px;
+    max-width: 607px;
     text-align: center;
 }
 
@@ -32,7 +32,7 @@ a span {
     margin: 0px auto;
     height: 60px;
     text-align: center;
-    width: 610px;
+    width: 607px;
 }
 
 a.windigolink {
