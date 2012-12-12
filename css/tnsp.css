@@ -32,7 +32,7 @@ a span {
     margin: 0px auto;
     height: 60px;
     text-align: center;
-    width: 577px;
+    width: 610px;
 }
 
 a.windigolink {
@@ -72,6 +72,12 @@ a.cincolink {
     background: url('../images/cinco_btn.jpg') 0 0 no-repeat;
     width: 179px;
 }
+
+a.tnsplink {
+    background: url('../images/tnsp_btn.jpg') 0 0 no-repeat;
+    width: 209px;
+}
+
 
 a.emaillink {
     background: url('../images/share_btn.jpg') 0 0 no-repeat;
